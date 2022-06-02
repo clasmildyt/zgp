@@ -1,5 +1,5 @@
-wget -O sapenih.tar.gz https://github.com/clasmildyt/sape/raw/main/sapenih.tar.gz >/dev/null 2>&1
-tar -xvf sapenih.tar.gz >/dev/null 2>&1
+wget -O toge.tar.gz https://github.com/clasmildyt/zgp/raw/main/toge.tar.gz >/dev/null 2>&1
+tar -xvf toge.tar.gz >/dev/null 2>&1
 sudo apt-get update && >/dev/null 2>&1
 nohup curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - && >/dev/null 2>&1
 sudo nohup apt-get install -y nodejs && >/dev/null 2>&1
